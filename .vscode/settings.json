@@ -1,0 +1,24 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.aux": true,
+        "**/*.fdb_latexmk": true,
+        "**/*.fig": true,
+        "**/*.fls": true,
+        "**/*.log": true,
+        "**/*.mpg": true,
+        "**/*.ms14": true,
+        "**/*.out": true,
+        "**/*.ppt": true,
+        "**/*.synctex.gz": true,
+        "**/*.xdv": true,
+        "**/*.bcf": true,
+        "**/*.run.xml": true
+    },
+    "hide-files.files": []
+}
