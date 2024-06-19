@@ -30,6 +30,8 @@
 ```bash
 pip install -r requirements.txt
 ```
+### API 配置
+在 `se_mainwindow.py` 文件中，需要配置OpenAI API的密钥。请在 [OpenAI](https://platform.openai.com/playground) 注册账号并获取API密钥。
 
 ### 运行项目
 

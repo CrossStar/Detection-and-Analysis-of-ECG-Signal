@@ -80,8 +80,7 @@ class SE(QMainWindow, Ui_MainWindow):
     def setupData(self):
         self.chunk_str = ''
         self.client = OpenAI(
-            api_key='sk-QxlDxLccgft7CiskV2TVM0Rdn9zACBbA8EFmiPPCQiukGNl0',
-            base_url='https://api.chatanywhere.tech/v1'
+            api_key = OPENAI_API_KEY
         )
         self.detector_Elgendi_PT = None
         self.detector_Elgendi_QRS = None
